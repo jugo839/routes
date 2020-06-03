@@ -25,9 +25,9 @@ __Исходные данные:__
 9.	Доход (Income)
 
 __Файлы:__
-- data.csv - исходные данные 
-- dea_routes.png - DEA-frontier (результат DEA рейтинга на графике, маршруты на линии - эффективные)
-- rating_DEA_routes.csv - результаты DEA рейтинга по маршрутам
-- rating_PCA_postcodes.csv - результаты PCA рейтинга по почтовым кодам
-- rating_PCA_regions.csv - результаты PCA рейтинга по регионам
-- rating_PCA_routes.csv - результаты PCA рейтинга по маршрутам
+- [data.csv](https://github.com/jugo839/routes/blob/master/data.csv) - исходные данные 
+- [dea_routes.png](https://github.com/jugo839/routes/blob/master/dea_routes.png) - DEA-frontier (результат DEA рейтинга на графике, маршруты на линии - эффективные)
+- [rating_DEA_routes.csv](https://github.com/jugo839/routes/blob/master/rating_DEA_routes.csv) - результаты DEA рейтинга по маршрутам
+- [rating_PCA_postcodes.csv](https://github.com/jugo839/routes/blob/master/rating_PCA_postcodes.csv) - результаты PCA рейтинга по почтовым кодам
+- [rating_PCA_regions.csv](https://github.com/jugo839/routes/blob/master/rating_PCA_regions.csv) - результаты PCA рейтинга по регионам
+- [rating_PCA_routes.csv](https://github.com/jugo839/routes/blob/master/rating_PCA_routes.csv) - результаты PCA рейтинга по маршрутам
