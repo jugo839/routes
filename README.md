@@ -25,7 +25,6 @@ __Исходные данные:__
 9.	Доход (Income)
 
 __Файлы:__
-- [data.csv](https://github.com/jugo839/routes/blob/master/data.csv) - исходные данные 
 - [dea_routes.png](https://github.com/jugo839/routes/blob/master/dea_routes.png) - DEA-frontier (результат DEA рейтинга на графике, маршруты на линии - эффективные)
 - [dp1.ipynb](https://github.com/jugo839/routes/blob/master/dp1.ipynb) - код (ноутбук)
 - [rating_DEA_routes.csv](https://github.com/jugo839/routes/blob/master/rating_DEA_routes.csv) - результаты DEA рейтинга по маршрутам
