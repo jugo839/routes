@@ -37,4 +37,4 @@ __Файлы:__
 
 __Сайт:__
 
-  https://jugo839.github.io/ 
+https://jugo839.github.io/ 
